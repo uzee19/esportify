@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live app deploye [here](https://uzee19.github.io/esportify/).
 
 ## Available Scripts
 
