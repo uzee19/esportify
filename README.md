@@ -7,6 +7,8 @@ Live app deployed [here](https://uzee19.github.io/esportify/).
 
 In the project directory, you can run:
 
+##Search For Games
+
 ### `npm start`
 
 Runs the app in the development mode.\
