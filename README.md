@@ -3,12 +3,15 @@
 
 Live app deployed [here](https://uzee19.github.io/esportify/).
 
+## Search For Games
+![alt text](public/2021-08-05.png)
+## Game Details
+![alt text](public/2021-08-05 (1).png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-## Search For Games
-![alt text](public/2021-08-05.png)
 
 ### `npm start`
 
