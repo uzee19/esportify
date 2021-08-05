@@ -7,7 +7,8 @@ Live app deployed [here](https://uzee19.github.io/esportify/).
 
 In the project directory, you can run:
 
-##Search For Games
+## Search For Games
+![alt text](public/2021-08-05.png)
 
 ### `npm start`
 
